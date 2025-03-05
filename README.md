@@ -1,6 +1,4 @@
 <!--title-->
 
 <!--content-->
- ## 🧱 Tech Stack
-##
-##
+
