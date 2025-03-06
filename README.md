@@ -3,7 +3,9 @@
 🤚
 <!--content-->
 ## ✔️Tech stack
-language
-
+*language
+#3776AB #A8B9CC 
+*frontend
+#E34F26 #1572B6 #F7DF1E
 ## ✔️Experiences
 ## ✔️Certificates
