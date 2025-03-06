@@ -1,6 +1,8 @@
 <!--title-->
 ## 주보경 jo bogyeong
 🤚
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joobogyeong)](https://github.com/anuraghazra/github-readme-stats)
 <!--content-->
 ## ✔️Tech stack
 language
