@@ -3,8 +3,9 @@
 🤚
 <!--content-->
 ## ✔️Tech stack
-language   
-<img src"https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+language
+<br>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
    
 frontend
 
