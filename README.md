@@ -12,5 +12,6 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 ## ✔️Experiences
-* **UMC Web part (2025.03 ~ )
+* **Hankuk University of Foreign Studies CES** (2021.03 ~ )
+* **UMC 8기 Web part** (2025.03 ~ )
 ## ✔️Certificates
