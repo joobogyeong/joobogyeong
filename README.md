@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- 제목과 설명 -->
-  ## Hi, I'm joo bogyeong!  
+  # Hi, I'm joo bogyeong!  
   🤚 개발자가 되기 위해 달려가는 중입니다.
 
   <!-- GitHub stats -->
@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">   
 
   #### Frontend  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
   <!-- Experiences -->
   ## ✔️ Experiences  
