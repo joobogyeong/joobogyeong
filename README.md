@@ -12,18 +12,18 @@
 
   <!-- Tech stack -->
   ## ✔️ Tech stack
-  <br/>
+  
   #### Framework
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Node.js-336633?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <br/>
+  
   #### Language
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">   
-  <br/>
+  
   <!-- Experiences -->
   ## ✔️ Experiences  
   🔹 **Hankuk University of Foreign Studies CES** (2021.03 ~ )  
