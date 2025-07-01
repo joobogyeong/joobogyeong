@@ -16,6 +16,7 @@
   #### Framework
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Node.js-336633?style=for-the-badge&logo=node.js&logoColor=white"/>
 
   #### Language
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
