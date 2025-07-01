@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
+<center>
 <!--title-->
 ## Hi, I'm joo bogyeong!
 🤚 개발자가 되기 위해 달려가는 중입니다.
@@ -19,5 +19,5 @@
 * **Hankuk University of Foreign Studies CES** (2021.03 ~ )
 * **UMC 8기 Web part** (2025.03 ~ )
 ## ✔️Certificates
-
+<center/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
