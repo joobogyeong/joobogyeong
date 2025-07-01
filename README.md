@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<center>
+
 <!--title-->
-## Hi, I'm joo bogyeong!
+<center>## Hi, I'm joo bogyeong!</center>
 🤚 개발자가 되기 위해 달려가는 중입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joobogyeong)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,5 +19,5 @@
 * **Hankuk University of Foreign Studies CES** (2021.03 ~ )
 * **UMC 8기 Web part** (2025.03 ~ )
 ## ✔️Certificates
-</center>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
