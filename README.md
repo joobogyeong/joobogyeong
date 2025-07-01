@@ -25,8 +25,8 @@
 
   <!-- Experiences -->
   ## ✔️ Experiences  
-  * **Hankuk University of Foreign Studies CES** (2021.03 ~ )  
-  * **UMC 8기 Web part** (2025.03 ~ )
+  🔹 **Hankuk University of Foreign Studies CES** (2021.03 ~ )  
+  🔹**UMC 8기 Web part** (2025.03 ~ )
 
   ## ✔️ Certificates
 
