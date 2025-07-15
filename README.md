@@ -29,8 +29,6 @@
   🔹 **Hankuk University of Foreign Studies CES** (2021.03 ~ )  
   🔹**UMC 8기 Web part** (2025.03 ~ )
 
-  ## ✔️ Certificates
-
   <!-- 푸터 캡슐 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
