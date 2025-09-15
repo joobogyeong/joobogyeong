@@ -29,7 +29,7 @@
   🔹**Hankuk University of Foreign Studies CES** (2021.03 ~ )  
   🔹**UMC 8기 Web part** (2025.03 ~ 2025.08)<br>
   🔹**UMC 9기 Spring boot part** (2025.09 ~ )<br>
-  🔹**GDODoC hufs** (2025.09 ~ )
+  🔹**GDGoC hufs** (2025.09 ~ )
 
 
   <!-- 푸터 캡슐 -->
