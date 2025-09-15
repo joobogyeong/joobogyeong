@@ -1,4 +1,4 @@
-<!-- 상단 waving 캡슐은 그대로 -->
+,<!-- 상단 waving 캡슐은 그대로 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <div align="center">
@@ -26,8 +26,11 @@
   
   <!-- Experiences -->
   ## ✔️ Experiences  
-  🔹 **Hankuk University of Foreign Studies CES** (2021.03 ~ )  
-  🔹**UMC 8기 Web part** (2025.03 ~ )
+  🔹**Hankuk University of Foreign Studies CES** (2021.03 ~ )  
+  🔹**UMC 8기 Web part** (2025.03 ~ 2025.08)
+  🔹**UMC 9기 Spring boot part** (2025.09 ~ )
+  🔹**GDODoC hufs** (2025.09 ~ )
+
 
   <!-- 푸터 캡슐 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
