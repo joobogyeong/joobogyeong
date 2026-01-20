@@ -5,7 +5,7 @@
 
   <!-- 제목과 설명 -->
   # Hi, I'm joo bogyeong!  
-  🤚 개발자가 되기 위해 달려가는 중입니다.
+  🤚 개발자가 되기 위해 달려가는 중입니다!
 
   <!-- GitHub stats -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joobogyeong)](https://github.com/anuraghazra/github-readme-stats)
