@@ -1,4 +1,4 @@
-,<!-- 상단 waving 캡슐은 그대로 -->
+<!-- 상단 waving 캡슐은 그대로 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <div align="center">
