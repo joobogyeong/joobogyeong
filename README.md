@@ -38,8 +38,9 @@
   ## ✔️ Experiences  
   🔹**Hankuk University of Foreign Studies CES** (2021.03 ~ )  
   🔹**UMC 8기 Web part** (2025.03 ~ 2025.08)<br>
-  🔹**UMC 9기 Spring boot part** (2025.09 ~ )<br>
+  🔹**UMC 9기 Spring boot part** (2025.09 ~ 2025.12)<br>
   🔹**GDGoC hufs** (2025.09 ~ )
+  🔹**UMC 10기 Spring part Leader** (2026.03 ~ )<br>
 
 
   <!-- 푸터 캡슐 -->
