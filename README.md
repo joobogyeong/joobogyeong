@@ -22,6 +22,8 @@
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/elasticsearch/111111" width="36" height="36" alt="Elasticsearch" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonwebservices.svg" width="36" height="36" alt="AWS" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/googlecloud/111111" width="36" height="36" alt="GCP" /></td>
+  </tr>
+  <tr>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/github/111111" width="36" height="36" alt="GitHub" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/git/111111" width="36" height="36" alt="Git" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/notion/111111" width="36" height="36" alt="Notion" /></td>
