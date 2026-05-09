@@ -18,11 +18,8 @@
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/tailwindcss/111111" width="36" height="36" alt="Tailwind CSS" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/spring/111111" width="36" height="36" alt="Spring" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/mysql/111111" width="36" height="36" alt="MySQL" /></td>
-    <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/redis/111111" width="36" height="36" alt="Redis" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/docker/111111" width="36" height="36" alt="Docker" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/elasticsearch/111111" width="36" height="36" alt="Elasticsearch" /></td>
-  </tr>
-  <tr>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonwebservices.svg" width="36" height="36" alt="AWS" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/googlecloud/111111" width="36" height="36" alt="GCP" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/github/111111" width="36" height="36" alt="GitHub" /></td>
@@ -31,7 +28,6 @@
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/discord/111111" width="36" height="36" alt="Discord" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.simpleicons.org/figma/111111" width="36" height="36" alt="Figma" /></td>
     <td align="center" bgcolor="#ffffff"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="36" height="36" alt="Codex" /></td>
-    <td align="center" bgcolor="#ffffff"></td>
   </tr>
 </table>
 
