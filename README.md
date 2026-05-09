@@ -10,7 +10,25 @@
 
 ## Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=react,vite,ts,tailwind,spring,mysql,redis,docker,elasticsearch,aws,gcp,github,git,notion,discord,figma&perline=8)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.simpleicons.org/react/111111" width="36" height="36" alt="React" />
+  <img src="https://cdn.simpleicons.org/vite/111111" width="36" height="36" alt="Vite" />
+  <img src="https://cdn.simpleicons.org/typescript/111111" width="36" height="36" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/111111" width="36" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/spring/111111" width="36" height="36" alt="Spring" />
+  <img src="https://cdn.simpleicons.org/mysql/111111" width="36" height="36" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/redis/111111" width="36" height="36" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/docker/111111" width="36" height="36" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/elasticsearch/111111" width="36" height="36" alt="Elasticsearch" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonwebservices.svg" width="36" height="36" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/googlecloud/111111" width="36" height="36" alt="GCP" />
+  <img src="https://cdn.simpleicons.org/github/111111" width="36" height="36" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/git/111111" width="36" height="36" alt="Git" />
+  <img src="https://cdn.simpleicons.org/notion/111111" width="36" height="36" alt="Notion" />
+  <img src="https://cdn.simpleicons.org/discord/111111" width="36" height="36" alt="Discord" />
+  <img src="https://cdn.simpleicons.org/figma/111111" width="36" height="36" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="36" height="36" alt="Codex" />
+</p>
 
 | Category | Stack |
 |----------|-------|
