@@ -59,7 +59,6 @@
 
 <p>
   <a href="mailto:powerbodol01@gmail.com"><img src="https://img.shields.io/badge/Gmail-powerbodol01-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/vogue_0_/?hl=ko"><img src="https://img.shields.io/badge/Instagram-@vogue__0__-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/%EB%B3%B4%EA%B2%BD-%EC%A3%BC-30bb17354/"><img src="https://img.shields.io/badge/LinkedIn-%EB%B3%B4%EA%B2%BD%20%EC%A3%BC-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
