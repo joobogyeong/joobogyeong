@@ -4,7 +4,9 @@
 
 | **Backend Developer** |
 
-🛠️ 협업 컨벤션을 바탕으로 안정적인 백엔드를 설계하고 구현하는 개발자입니다.
+🛠️ 협업 컨벤션을 바탕으로 안정적인 백엔드를 설계하고 구현하는 개발자입니다. 🍃
+☁️ 현재는 Cloud Native Developer를 목표로 Orchestration과 Observability에 대해서 공부하고 있습니다. 🐳
+
 
 <img src="https://github-stats-extended.vercel.app/api?username=joobogyeong&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=BDBDC8&text_color=C9D1D9&icon_color=BDBDC8" height="170" alt="Joo Bogyeong's GitHub stats" />
 
