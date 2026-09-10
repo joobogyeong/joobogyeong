@@ -4,7 +4,7 @@
 
 | **Backend Developer** |
 
-🛠️ 협업 컨벤션을 바탕으로 안정적인 백엔드를 설계하고 구현하는 개발자입니다. 🍃
+🛠️ 협업 컨벤션을 바탕으로 안정적인 백엔드를 설계하고 구현하는 개발자입니다. 🍃 <br>
 ☁️ 현재는 Cloud Native Developer를 목표로 Orchestration과 Observability에 대해서 공부하고 있습니다. 🐳
 
 
