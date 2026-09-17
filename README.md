@@ -47,6 +47,7 @@
 | **UMC 9기 Spring Boot Part** | 2025.09 ~ 2026.02 | |
 | **GDGoC HUFS** | 2025.09 ~ 2026.08 | |
 | **UMC 10기 Spring Boot Part Lead** | 2026.03 ~ 2026.08 | |
+| **SOPT 39기 Server part YB** | 2026.09 ~ ing | |
 
 ## Awards
 
