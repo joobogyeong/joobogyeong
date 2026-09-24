@@ -2,7 +2,7 @@
 
 # Hi, I'm Joo Bogyeong!
 
-| **Backend Developer** |
+**Cloud Native Engineering** | **Backend Developer** 
 
 🛠️ 협업 컨벤션을 바탕으로 안정적인 백엔드를 설계하고 구현하는 개발자입니다. 🍃 <br>
 ☁️ 현재는 Cloud Native Developer를 목표로 Orchestration과 Observability에 대해서 공부하고 있습니다. 🐳
@@ -53,14 +53,14 @@
 
 | Award | Project | Date |
 |-------|---------|------|
-| **캡스톤설계실습 우수상** | Litemiro — LLM 기반 소셜 미디어 여론 형성 시뮬레이터 | 2026.06 |
+| **2026-1 캡스톤설계실습 우수상** | Litemiro — LLM 기반 소셜 미디어 여론 형성 시뮬레이터 | 2026.06 |
 | **UMC 9기 DEMO DAY 최우수상** | Finders — 필름 현상소 연결 플랫폼 | 2026.02 |
 
 ## Featured Projects
 
 | Project | My Role | Highlight | Link |
 |---------|---------|-----------|------|
-| **PLIMAP** | Backend Lead | 위치 기반 음악 큐레이션 서비스의 초기 아키텍처·데이터베이스와 GCP 인프라를 설계하고, CI/CD 및 쿠키 기반 인증 환경을 구축했습니다. | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UMC10th-PLIMAP/PLIMAP-BE) |
+| **PLIMAP** | Backend Lead | 위치 기반 음악 큐레이션 서비스의 초기 아키텍처·데이터베이스와 GCP 인프라를 설계하고, CI/CD 환경을 구축했습니다. | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UMC10th-PLIMAP/PLIMAP-BE) |
 | **Finders** | Backend API Developer | 현상소 도메인 API를 설계·구현하고, 인덱스와 조회 구조를 개선해 대표 쿼리 실행 시간을 91% 이상 단축했습니다. | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Finders-Official/BE) |
 | **HUFSOLVE** | Full-stack Developer / Cloud Infrastructure | 클라우드 기반 코딩 테스트 시스템을 구현하고, SQS 기반 비동기 채점과 독립 Auto Scaling·Scale-to-Zero 구조를 구축했습니다. | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joobogyeong/HUFSOLVE) |
 
